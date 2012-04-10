@@ -1,0 +1,18 @@
+jmgsim
+
+A Java implementation of Media Gateway Simulator
+
+Originated by Dave Tian (daveti)
+on March 13, 2012
+Emails:
+dave.tian@alcatel-lucent.com
+dave.jing.tian@gmail.com
+Blog:
+http://daveti.blog.com
+
+NOTE:
+jmgsim is written on NetBeans 7.1. This version of jmgsim is initial version from daveti and tested, verified already. For latest version of jmgsim, please visit http://daveti.blog.com - Kenny Du (kenny.du@alcatel-lucent.com) is now the main developer and maintainer.
+
+Thanks,
+Dave
+April 10, 2012
